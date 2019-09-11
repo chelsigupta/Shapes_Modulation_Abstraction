@@ -1,5 +1,8 @@
 # SHAPES-Modulation-Abstraction-
 The initial Minimal version of the Shapes class library is extended to include triangles, squares, rectangles, and ellipses by following the principles of abstraction and modularity.
+
+Tech Stack: Gradle, Java, JUnit.
+
 1. General Requirements:-
 
 1.1. All components in Shapes should be usable in a 2-dimensional space with X and Y axes. There is
